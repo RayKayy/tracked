@@ -1,4 +1,6 @@
 # tracked
 
-A Flutter project. Created to learn FLutter and to track my route on road trips, and to deal with gas and other expenses.
+A Flutter project. Created to track my route on road trips, and to try out and learn Flutter.
+
+All logs and data is stored locally and does not require network access.
 
